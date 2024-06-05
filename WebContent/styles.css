@@ -3,9 +3,17 @@
 }
 
 body {
-	background-image: url("Photo.jpg");
+	background-image: url("Photo.avif");
 	font-family: 'Segoe UI','Open Sans', 'Helvetica Neue', sans-serif;
+
+            background-repeat: repeat-x;
+            
+            width: 100%;
+           
+	
+	
 }
+
 
 #topmid {
 	border: 0px solid black;
